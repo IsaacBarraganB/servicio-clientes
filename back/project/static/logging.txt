@@ -1,0 +1,1503 @@
+ERROR:root:Pagination error: Expecting value: line 1 column 3 (char 2) - Time 2024-07-13 11:52:07.109174
+ERROR:root:Pagination error: Expecting value: line 1 column 3 (char 2) - Time 2024-07-13 11:52:07.109174
+ERROR:root:Pagination error: Expecting value: line 1 column 3 (char 2) - Time 2024-07-13 11:52:07.109174
+ERROR:root:Pagination error: Expecting value: line 1 column 3 (char 2) - Time 2024-07-13 11:52:07.109174
+ERROR:root:Pagination error: Expecting value: line 1 column 3 (char 2) - Time 2024-07-13 11:52:07.109174
+ERROR:root:Pagination error: Expecting value: line 1 column 3 (char 2) - Time 2024-07-20 14:19:07.920871
+ERROR:root:Pagination error: Expecting value: line 1 column 1 (char 0) - Time 2024-07-20 16:28:20.853997
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:28:20.853997
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:28:20.853997
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:28:20.853997
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:28:20.853997
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:28:20.853997
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:28:20.853997
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:28:20.853997
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:34:47.461399
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:34:47.461399
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:34:47.461399
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:34:47.461399
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:34:47.461399
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:34:47.461399
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-07-20 16:34:47.461399
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.name_name does not exist
+LINE 2: ...nus.submenu_id AS view_menus_submenus_submenu_id, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_name AS view_menus_submenus_name_name, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 15:44:01.061516
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_menu AS view_menus_submenus_name_menu, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 16:12:17.415425
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_menu AS view_menus_submenus_name_menu, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 16:13:02.521217
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_menu AS view_menus_submenus_name_menu, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 16:13:02.521217
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedTable) relation "view_menus_submenus" does not exist
+LINE 3: FROM view_menus_submenus) AS anon_1
+             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_menu AS view_menus_submenus_name_menu, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 16:13:02.521217
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_menu AS view_menus_submenus_name_menu, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 16:18:07.069921
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...submenu_name AS view_menus_submenus_submenu_name, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_menu AS view_menus_submenus_name_menu, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 16:19:02.298470
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_menus_submenus.id does not exist
+LINE 2: ...ubmenus.sub_icon AS view_menus_submenus_sub_icon, view_menus...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_menus_submenus.menu_id AS view_menus_submenus_menu_id, view_menus_submenus.submenu_id AS view_menus_submenus_submenu_id, view_menus_submenus.name_menu AS view_menus_submenus_name_menu, view_menus_submenus.submenu_name AS view_menus_submenus_submenu_name, view_menus_submenus.sub_link AS view_menus_submenus_sub_link, view_menus_submenus.sub_icon AS view_menus_submenus_sub_icon, view_menus_submenus.id AS view_menus_submenus_id 
+FROM view_menus_submenus) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-07-22 17:19:23.871612
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "users_email_key"
+DETAIL:  Key (email)=(eduardo@gmail.com) already exists.
+
+[SQL: INSERT INTO users (nickname, fullname, email, password, account_id, modified_on) VALUES (%(nickname)s, %(fullname)s, %(email)s, %(password)s, %(account_id)s, %(modified_on)s) RETURNING users.id, users.created_on]
+[parameters: {'nickname': 'Eduardo', 'fullname': 'EDUARDO LOPEZ', 'email': 'eduardo@gmail.com', 'password': '$pbkdf2-sha256$29000$8X6vVUpprZWy9t5b6x2DUA$DDjdPJN4vLuBYFFyxssqJg1EF2X9wPWjFyswDlHwDJg', 'account_id': 4, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-06 12:17:41.782284
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "users_email_key"
+DETAIL:  Key (email)=(raul.996@hotmail.com) already exists.
+
+[SQL: INSERT INTO users (nickname, fullname, email, password, account_id, modified_on) VALUES (%(nickname)s, %(fullname)s, %(email)s, %(password)s, %(account_id)s, %(modified_on)s) RETURNING users.id, users.created_on]
+[parameters: {'nickname': 'INGRAUL', 'fullname': 'RAUL MORALES', 'email': 'raul.996@hotmail.com', 'password': '$pbkdf2-sha256$29000$37u39p7zXgvBWIsxJkRozQ$u2Vs9ClG6DSrCSW.ZWQsn948GXIDilYAvNb9B6RhFT4', 'account_id': 8, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-06 16:38:27.942709
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-08-16 14:55:23.008066
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-08-16 14:55:23.008066
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-08-16 14:55:23.008066
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-08-16 14:55:23.008066
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-08-16 14:55:23.008066
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "modules_uk_name"
+DETAIL:  Key (name)=(INVICENTARIOS) already exists.
+
+[SQL: INSERT INTO modules (name, modified_on) VALUES (%(name)s, %(modified_on)s) RETURNING modules.id, modules.created_on]
+[parameters: {'name': 'INVICENTARIOS', 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-21 21:10:02.396424
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "menus"
+LINE 4: WHERE modules.id = 'menus') AS anon_1
+                           ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT modules.id AS modules_id, modules.name AS modules_name, modules.created_on AS modules_created_on, modules.modified_on AS modules_modified_on 
+FROM modules 
+WHERE modules.id = %(id_1)s) AS anon_1]
+[parameters: {'id_1': 'menus'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-08-24 14:14:44.001193
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "menus"
+LINE 4: WHERE modules.id = 'menus') AS anon_1
+                           ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT modules.id AS modules_id, modules.name AS modules_name, modules.created_on AS modules_created_on, modules.modified_on AS modules_modified_on 
+FROM modules 
+WHERE modules.id = %(id_1)s) AS anon_1]
+[parameters: {'id_1': 'menus'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-08-24 14:14:44.001193
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "new"
+LINE 4: WHERE view_sys_menus.id = 'new') AS anon_1
+                                  ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_sys_menus.id AS view_sys_menus_id, view_sys_menus.name AS view_sys_menus_name, view_sys_menus."order" AS view_sys_menus_order 
+FROM view_sys_menus 
+WHERE view_sys_menus.id = %(id_1)s) AS anon_1]
+[parameters: {'id_1': 'new'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-08-24 14:14:44.001193
+ERROR:root:Update error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_menus_uk_order"
+DETAIL:  Key ("order")=(3) already exists.
+
+[SQL: UPDATE sys_menus SET "order"=%(order)s, modified_on=now() WHERE sys_menus.id = %(sys_menus_id)s]
+[parameters: {'order': 3, 'sys_menus_id': 3}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-24 15:17:12.478700
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "new"
+LINE 4: WHERE view_sys_menus.id = 'new') AS anon_1
+                                  ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_sys_menus.id AS view_sys_menus_id, view_sys_menus.name AS view_sys_menus_name, view_sys_menus."order" AS view_sys_menus_order 
+FROM view_sys_menus 
+WHERE view_sys_menus.id = %(id_1)s) AS anon_1]
+[parameters: {'id_1': 'new'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-08-24 15:17:12.478700
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "new"
+LINE 4: WHERE view_sys_menus.id = 'new') AS anon_1
+                                  ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_sys_menus.id AS view_sys_menus_id, view_sys_menus.name AS view_sys_menus_name, view_sys_menus."order" AS view_sys_menus_order 
+FROM view_sys_menus 
+WHERE view_sys_menus.id = %(id_1)s) AS anon_1]
+[parameters: {'id_1': 'new'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-08-24 15:17:12.478700
+ERROR:root:Pagination error: type object 'ViewSysMenus' has no attribute 'menu_id' - Time 2024-08-25 14:20:22.792507
+ERROR:root:Pagination error: type object 'ViewSysMenus' has no attribute 'menu_id' - Time 2024-08-25 14:20:22.792507
+ERROR:root:Pagination error: type object 'ViewSysMenus' has no attribute 'menu_id' - Time 2024-08-25 14:20:22.792507
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "modules"
+LINE 4: WHERE view_sys_menus.id = 'modules') AS anon_1
+                                  ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_sys_menus.id AS view_sys_menus_id, view_sys_menus.name AS view_sys_menus_name, view_sys_menus."order" AS view_sys_menus_order 
+FROM view_sys_menus 
+WHERE view_sys_menus.id = %(id_1)s) AS anon_1]
+[parameters: {'id_1': 'modules'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-08-25 14:20:22.792507
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "modules"
+LINE 4: WHERE sys_submenus.menu_id = 'modules') AS anon_1
+                                     ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT sys_submenus.id AS sys_submenus_id, sys_submenus.name AS sys_submenus_name, sys_submenus.menu_id AS sys_submenus_menu_id, sys_submenus.link AS sys_submenus_link, sys_submenus.icon AS sys_submenus_icon, sys_submenus."order" AS sys_submenus_order, sys_submenus.created_on AS sys_submenus_created_on, sys_submenus.modified_on AS sys_submenus_modified_on 
+FROM sys_submenus 
+WHERE sys_submenus.menu_id = %(menu_id_1)s) AS anon_1]
+[parameters: {'menu_id_1': 'modules'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-08-25 14:20:22.792507
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "modules"
+LINE 4: WHERE sys_submenus.menu_id = 'modules') AS anon_1
+                                     ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT sys_submenus.id AS sys_submenus_id, sys_submenus.name AS sys_submenus_name, sys_submenus.menu_id AS sys_submenus_menu_id, sys_submenus.link AS sys_submenus_link, sys_submenus.icon AS sys_submenus_icon, sys_submenus."order" AS sys_submenus_order, sys_submenus.created_on AS sys_submenus_created_on, sys_submenus.modified_on AS sys_submenus_modified_on 
+FROM sys_submenus 
+WHERE sys_submenus.menu_id = %(menu_id_1)s) AS anon_1]
+[parameters: {'menu_id_1': 'modules'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-08-25 14:20:22.792507
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "modules"
+LINE 4: WHERE view_sys_menus.id = 'modules') AS anon_1
+                                  ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_sys_menus.id AS view_sys_menus_id, view_sys_menus.name AS view_sys_menus_name, view_sys_menus."order" AS view_sys_menus_order 
+FROM view_sys_menus 
+WHERE view_sys_menus.id = %(id_1)s) AS anon_1]
+[parameters: {'id_1': 'modules'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-08-25 14:20:22.792507
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "modules"
+LINE 4: WHERE sys_submenus.menu_id = 'modules') AS anon_1
+                                     ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT sys_submenus.id AS sys_submenus_id, sys_submenus.name AS sys_submenus_name, sys_submenus.menu_id AS sys_submenus_menu_id, sys_submenus.link AS sys_submenus_link, sys_submenus.icon AS sys_submenus_icon, sys_submenus."order" AS sys_submenus_order, sys_submenus.created_on AS sys_submenus_created_on, sys_submenus.modified_on AS sys_submenus_modified_on 
+FROM sys_submenus 
+WHERE sys_submenus.menu_id = %(menu_id_1)s) AS anon_1]
+[parameters: {'menu_id_1': 'modules'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-08-25 14:20:22.792507
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "modules"
+LINE 4: WHERE view_sys_menus.id = 'modules') AS anon_1
+                                  ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_sys_menus.id AS view_sys_menus_id, view_sys_menus.name AS view_sys_menus_name, view_sys_menus."order" AS view_sys_menus_order 
+FROM view_sys_menus 
+WHERE view_sys_menus.id = %(id_1)s) AS anon_1]
+[parameters: {'id_1': 'modules'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-08-25 14:20:22.792507
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-08-26 08:24:15.684785
+ERROR:root:Create error: (psycopg2.errors.NotNullViolation) null value in column "order" of relation "sys_submenus" violates not-null constraint
+DETAIL:  Failing row contains (9, MENUS, 3, 2024-08-26 14:24:05.796932-06, null, menus, menu, null).
+
+[SQL: INSERT INTO sys_submenus (name, menu_id, link, icon, "order", modified_on) VALUES (%(name)s, %(menu_id)s, %(link)s, %(icon)s, %(order)s, %(modified_on)s) RETURNING sys_submenus.id, sys_submenus.created_on]
+[parameters: {'name': 'MENUS', 'menu_id': 3, 'link': 'menus', 'icon': 'menu', 'order': None, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-26 08:24:15.684785
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-08-26 08:24:15.684785
+ERROR:root:Update error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_submenus_uk_name_menu_id"
+DETAIL:  Key (name, menu_id)=(CUENTA, 3) already exists.
+
+[SQL: UPDATE sys_submenus SET name=%(name)s, menu_id=%(menu_id)s, link=%(link)s, icon=%(icon)s, modified_on=now() WHERE sys_submenus.id = %(sys_submenus_id)s]
+[parameters: {'name': 'CUENTA', 'menu_id': 3, 'link': 'CUENTA', 'icon': 'settings', 'sys_submenus_id': 3}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-26 08:24:15.684785
+ERROR:root:Update error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_submenus_uk_name_menu_id"
+DETAIL:  Key (name, menu_id)=(CUENTA, 3) already exists.
+
+[SQL: UPDATE sys_submenus SET name=%(name)s, menu_id=%(menu_id)s, link=%(link)s, icon=%(icon)s, modified_on=now() WHERE sys_submenus.id = %(sys_submenus_id)s]
+[parameters: {'name': 'CUENTA', 'menu_id': 3, 'link': 'CUENTAA', 'icon': 'settings', 'sys_submenus_id': 3}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-26 08:24:15.684785
+ERROR:root:Update error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_submenus_uk_name_menu_id"
+DETAIL:  Key (name, menu_id)=(CUENTA, 3) already exists.
+
+[SQL: UPDATE sys_submenus SET name=%(name)s, menu_id=%(menu_id)s, link=%(link)s, icon=%(icon)s, modified_on=now() WHERE sys_submenus.id = %(sys_submenus_id)s]
+[parameters: {'name': 'CUENTA', 'menu_id': 3, 'link': 'MICUENTA', 'icon': 'settings', 'sys_submenus_id': 3}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-26 08:24:15.684785
+ERROR:root:Update error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_submenus_uk_name"
+DETAIL:  Key (name)=(CUENTA) already exists.
+
+[SQL: UPDATE sys_submenus SET name=%(name)s, link=%(link)s, icon=%(icon)s, modified_on=now() WHERE sys_submenus.id = %(sys_submenus_id)s]
+[parameters: {'name': 'CUENTA', 'link': 'CUENTA', 'icon': 'settings', 'sys_submenus_id': 3}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-26 08:24:15.684785
+ERROR:root:Update error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_submenus_uk_name"
+DETAIL:  Key (name)=(CUENTA) already exists.
+
+[SQL: UPDATE sys_submenus SET name=%(name)s, link=%(link)s, icon=%(icon)s, modified_on=now() WHERE sys_submenus.id = %(sys_submenus_id)s]
+[parameters: {'name': 'CUENTA', 'link': 'MI', 'icon': 'settings', 'sys_submenus_id': 3}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-26 08:24:15.684785
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "undefined"
+LINE 4: WHERE users.id = 'undefined' AND users.account_id = 10) AS a...
+                         ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT users.nickname AS users_nickname, users.fullname AS users_fullname, users.email AS users_email 
+FROM users 
+WHERE users.id = %(id_1)s AND users.account_id = %(account_id_1)s) AS anon_1]
+[parameters: {'id_1': 'undefined', 'account_id_1': 10}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-08-31 09:23:30.348226
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "undefined"
+LINE 4: WHERE users.id = 'undefined' AND users.account_id = 10) AS a...
+                         ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT users.id AS users_id, users.nickname AS users_nickname, users.fullname AS users_fullname, users.email AS users_email 
+FROM users 
+WHERE users.id = %(id_1)s AND users.account_id = %(account_id_1)s) AS anon_1]
+[parameters: {'id_1': 'undefined', 'account_id_1': 10}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-08-31 09:24:53.174153
+ERROR:root:Update error: (psycopg2.errors.NotNullViolation) null value in column "password" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (12, ISAACBB, ISAAC BARRAGAN BARRAGAN, isaac@gamail.com, null, 10, 2024-08-30 09:21:00.567609-06, 2024-08-31 09:57:51.785907-06).
+
+[SQL: UPDATE users SET password=%(password)s, modified_on=now() WHERE users.id = %(users_id)s]
+[parameters: {'password': None, 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-31 09:57:41.962355
+ERROR:root:Update error: (psycopg2.errors.NotNullViolation) null value in column "password" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (12, ISAACBB, ISAAC BARRAGAN BARRAGAN, isaac@gamail.com, null, 10, 2024-08-30 09:21:00.567609-06, 2024-08-31 09:58:15.95737-06).
+
+[SQL: UPDATE users SET password=%(password)s, modified_on=now() WHERE users.id = %(users_id)s]
+[parameters: {'password': None, 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-31 09:57:41.962355
+ERROR:root:Update error: (psycopg2.errors.NotNullViolation) null value in column "password" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (12, ISAACBB, ISAAC BARRAGAN BARRAGAN, isaac@gamail.com, null, 10, 2024-08-30 09:21:00.567609-06, 2024-08-31 10:00:19.12236-06).
+
+[SQL: UPDATE users SET password=%(password)s, modified_on=now() WHERE users.id = %(users_id)s]
+[parameters: {'password': None, 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-31 09:57:41.962355
+ERROR:root:Update error: (psycopg2.errors.NotNullViolation) null value in column "password" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (12, ISAACBB, ISAAC BARRAGAN BARRAGAN, isaac@gamail.com, null, 10, 2024-08-30 09:21:00.567609-06, 2024-08-31 10:02:09.266218-06).
+
+[SQL: UPDATE users SET password=%(password)s, modified_on=now() WHERE users.id = %(users_id)s]
+[parameters: {'password': None, 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-31 10:01:57.082458
+ERROR:root:Update error: (psycopg2.errors.NotNullViolation) null value in column "password" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (12, ISAACBB, ISAAC BARRAGAN BARRAGAN, isaac@gamail.com, null, 10, 2024-08-30 09:21:00.567609-06, 2024-08-31 10:02:34.945793-06).
+
+[SQL: UPDATE users SET password=%(password)s, modified_on=now() WHERE users.id = %(users_id)s]
+[parameters: {'password': None, 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-31 10:01:57.082458
+ERROR:root:Update error: (psycopg2.errors.NotNullViolation) null value in column "password" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (12, ISAACBB, ISAAC BARRAGAN BARRAGAN, isaac@gamail.com, null, 10, 2024-08-30 09:21:00.567609-06, 2024-08-31 10:02:58.035212-06).
+
+[SQL: UPDATE users SET password=%(password)s, modified_on=now() WHERE users.id = %(users_id)s]
+[parameters: {'password': None, 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-31 10:01:57.082458
+ERROR:root:Update error: (psycopg2.errors.NotNullViolation) null value in column "password" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (12, ISAACBB, ISAAC BARRAGAN BARRAGAN, isaac@gamail.com, null, 10, 2024-08-30 09:21:00.567609-06, 2024-08-31 10:07:42.43732-06).
+
+[SQL: UPDATE users SET password=%(password)s, modified_on=now() WHERE users.id = %(users_id)s]
+[parameters: {'password': None, 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-31 10:07:27.285320
+ERROR:root:Update error: (psycopg2.errors.NotNullViolation) null value in column "password" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (12, ISAACBB, ISAAC BARRAGAN BARRAGAN, isaac@gamail.com, null, 10, 2024-08-30 09:21:00.567609-06, 2024-08-31 10:08:03.48266-06).
+
+[SQL: UPDATE users SET password=%(password)s, modified_on=now() WHERE users.id = %(users_id)s]
+[parameters: {'password': None, 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-31 10:07:27.285320
+ERROR:root:Update error: (psycopg2.errors.NotNullViolation) null value in column "password" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (12, ISAACBB, ISAAC BARRAGAN BARRAGAN, isaac@gamail.com, null, 10, 2024-08-30 09:21:00.567609-06, 2024-08-31 10:08:33.626121-06).
+
+[SQL: UPDATE users SET password=%(password)s, modified_on=now() WHERE users.id = %(users_id)s]
+[parameters: {'password': None, 'users_id': 12}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-08-31 10:07:27.285320
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-04 15:34:55.193310
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:17:27.092116
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:52:32.679398
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:52:32.679398
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:52:32.679398
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:52:32.679398
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:52:32.679398
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:52:32.679398
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:52:32.679398
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:52:32.679398
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-05 07:52:32.679398
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_accounts_nichos_account_id_nicho_id_uk"
+DETAIL:  Key (account_id, nicho_id)=(5, 2) already exists.
+
+[SQL: INSERT INTO sys_accounts_nichos (account_id, nicho_id, modified_on) VALUES (%(account_id)s, %(nicho_id)s, %(modified_on)s) RETURNING sys_accounts_nichos.id, sys_accounts_nichos.created_on]
+[parameters: {'account_id': 5, 'nicho_id': 2, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-05 16:35:15.842186
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_accounts_nichos_account_id_nicho_id_uk"
+DETAIL:  Key (account_id, nicho_id)=(5, 4) already exists.
+
+[SQL: INSERT INTO sys_accounts_nichos (account_id, nicho_id, modified_on) VALUES (%(account_id)s, %(nicho_id)s, %(modified_on)s) RETURNING sys_accounts_nichos.id, sys_accounts_nichos.created_on]
+[parameters: {'account_id': 5, 'nicho_id': 4, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-07 13:58:04.865222
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_accounts_nichos_account_id_nicho_id_uk"
+DETAIL:  Key (account_id, nicho_id)=(5, 4) already exists.
+
+[SQL: INSERT INTO sys_accounts_nichos (account_id, nicho_id, modified_on) VALUES (%(account_id)s, %(nicho_id)s, %(modified_on)s) RETURNING sys_accounts_nichos.id, sys_accounts_nichos.created_on]
+[parameters: {'account_id': 5, 'nicho_id': 4, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-07 13:58:04.865222
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_accounts_nichos_account_id_nicho_id_uk"
+DETAIL:  Key (account_id, nicho_id)=(5, 4) already exists.
+
+[SQL: INSERT INTO sys_accounts_nichos (account_id, nicho_id, modified_on) VALUES (%(account_id)s, %(nicho_id)s, %(modified_on)s) RETURNING sys_accounts_nichos.id, sys_accounts_nichos.created_on]
+[parameters: {'account_id': 5, 'nicho_id': 4, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-07 13:58:04.865222
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-07 13:58:04.865222
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-07 13:58:04.865222
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-07 13:58:04.865222
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-07 13:58:04.865222
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-07 13:58:04.865222
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-07 13:58:04.865222
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-07 13:58:04.865222
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_accounts_nichos_account_id_nicho_id_uk"
+DETAIL:  Key (account_id, nicho_id)=(1, 3) already exists.
+
+[SQL: INSERT INTO sys_accounts_nichos (account_id, nicho_id, modified_on) VALUES (%(account_id)s, %(nicho_id)s, %(modified_on)s) RETURNING sys_accounts_nichos.id, sys_accounts_nichos.created_on]
+[parameters: {'account_id': 1, 'nicho_id': 3, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-08 14:55:21.960637
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-09 11:54:58.446022
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(2, 13) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 2, 'submenu_id': 13, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-14 12:56:52.904367
+ERROR:root:Pagination error: type object 'SysAccountsSubmenus' has no attribute 'menu' - Time 2024-09-16 13:51:46.386399
+ERROR:root:Pagination error: type object 'SysAccountsSubmenus' has no attribute 'menu' - Time 2024-09-16 13:51:46.386399
+ERROR:root:Pagination error: type object 'SysAccountsSubmenus' has no attribute 'menu' - Time 2024-09-16 13:51:46.386399
+ERROR:root:Pagination error: type object 'SysAccountsSubmenus' has no attribute 'menu' - Time 2024-09-16 13:51:46.386399
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(1, 5) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 1, 'submenu_id': 5, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-16 13:51:46.386399
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "permission_id_submenu_id_uk"
+DETAIL:  Key (permission_id, submenu_id)=(2, 7) already exists.
+
+[SQL: INSERT INTO sys_permissions_submenus (permission_id, submenu_id, modified_on) VALUES (%(permission_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_permissions_submenus.id, sys_permissions_submenus.created_on]
+[parameters: {'permission_id': 2, 'submenu_id': 7, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-21 15:46:06.587911
+ERROR:root:Pagination error: type object 'SysPermissionsSubmenus' has no attribute 'menu' - Time 2024-09-22 07:27:58.113474
+ERROR:root:Pagination error: type object 'SysPermissionsSubmenus' has no attribute 'name' - Time 2024-09-22 07:45:52.884262
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-23 16:59:13.060049
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-23 16:59:13.060049
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-23 16:59:13.060049
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-23 16:59:13.060049
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-23 16:59:13.060049
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-23 16:59:13.060049
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-23 16:59:13.060049
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-23 16:59:13.060049
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_accounts_nichos_account_id_nicho_id_uk"
+DETAIL:  Key (account_id, nicho_id)=(1, 3) already exists.
+
+[SQL: INSERT INTO sys_accounts_nichos (account_id, nicho_id, modified_on) VALUES (%(account_id)s, %(nicho_id)s, %(modified_on)s) RETURNING sys_accounts_nichos.id, sys_accounts_nichos.created_on]
+[parameters: {'account_id': 1, 'nicho_id': 3, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-26 06:59:17.847908
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-26 06:59:17.847908
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-26 06:59:17.847908
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-27 16:24:47.176427
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-27 16:24:47.176427
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_users_permissions_uk_user_id_permission_submenu_id"
+DETAIL:  Key (user_id, permission_submenu_id)=(1, 34) already exists.
+
+[SQL: INSERT INTO sys_users_permissions (user_id, permission_submenu_id, modified_on) VALUES (%(user_id)s, %(permission_submenu_id)s, %(modified_on)s) RETURNING sys_users_permissions.id, sys_users_permissions.created_on]
+[parameters: {'user_id': 1, 'permission_submenu_id': 34, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-27 16:24:47.176427
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 8) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 8, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-28 14:51:30.657414
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 8) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 8, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-28 14:51:30.657414
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 1) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-28 14:51:30.657414
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 7) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 7, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-28 14:51:30.657414
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 15) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 15, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-28 14:51:30.657414
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 12) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 12, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-28 14:51:30.657414
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 8) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 8, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-09-28 14:51:30.657414
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 08:10:33.318206
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 08:10:33.318206
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 08:10:33.318206
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 08:10:33.318206
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 08:10:33.318206
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 08:10:33.318206
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 08:10:33.318206
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 08:10:33.318206
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 08:10:33.318206
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 08:10:33.318206
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 19:17:28.897128
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 19:17:28.897128
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 19:17:28.897128
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 19:17:28.897128
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 19:17:28.897128
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 19:17:28.897128
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 19:17:28.897128
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 19:17:28.897128
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 19:17:28.897128
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 19:17:28.897128
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 19:17:28.897128
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 19:17:28.897128
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-09-30 19:17:28.897128
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-01 07:54:27.883044
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-01 07:54:27.883044
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-10-09 15:13:30.485309
+ERROR:root:Pagination error: type object 'Users' has no attribute 'name' - Time 2024-10-09 15:13:30.485309
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-09 15:13:30.485309
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-09 15:13:30.485309
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-09 15:13:30.485309
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-09 15:13:30.485309
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-09 16:33:29.997709
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-09 18:57:36.878234
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-09 18:57:36.878234
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-09 18:57:36.878234
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-09 18:57:36.878234
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-10 15:10:01.390512
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-10 15:21:24.833305
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-10 15:36:40.763280
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-11 11:09:32.663890
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-11 11:29:03.884779
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-11 11:34:21.768884
+ERROR:root:Pagination error: QueuePool limit of size 5 overflow 10 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-11 11:34:21.768884
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 8) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 8, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-10-11 15:59:31.639661
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 1) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-10-11 15:59:31.639661
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 7) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 7, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-10-11 15:59:31.639661
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 15) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 15, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-10-11 15:59:31.639661
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 12) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 12, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-10-11 15:59:31.639661
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 8) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 8, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-10-11 15:59:31.639661
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "account_id_uk_submenu_id"
+DETAIL:  Key (account_id, submenu_id)=(12, 8) already exists.
+
+[SQL: INSERT INTO sys_accounts_submenus (account_id, submenu_id, modified_on) VALUES (%(account_id)s, %(submenu_id)s, %(modified_on)s) RETURNING sys_accounts_submenus.id, sys_accounts_submenus.created_on]
+[parameters: {'account_id': 12, 'submenu_id': 8, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-10-11 15:59:31.639661
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_accounts_nichos_account_id_nicho_id_uk"
+DETAIL:  Key (account_id, nicho_id)=(12, 6) already exists.
+
+[SQL: INSERT INTO sys_accounts_nichos (account_id, nicho_id, modified_on) VALUES (%(account_id)s, %(nicho_id)s, %(modified_on)s) RETURNING sys_accounts_nichos.id, sys_accounts_nichos.created_on]
+[parameters: {'account_id': 12, 'nicho_id': 6, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-10-11 15:59:31.639661
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sys_menus_uk_order"
+DETAIL:  Key ("order")=(4) already exists.
+
+[SQL: INSERT INTO sys_menus (name, "order", modified_on) VALUES (%(name)s, %(order)s, %(modified_on)s) RETURNING sys_menus.id, sys_menus.created_on]
+[parameters: {'name': 'CATALOGO', 'order': '4', 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-10-15 15:21:35.049541
+ERROR:root:Pagination error: type object 'CtgCustomers' has no attribute 'name' - Time 2024-10-16 16:22:27.916007
+ERROR:root:Pagination error: type object 'CtgCustomers' has no attribute 'name' - Time 2024-10-16 16:22:27.916007
+ERROR:root:Create error: (psycopg2.errors.DatetimeFieldOverflow) date/time field value out of range: "17/10/2024"
+LINE 1: ..._name, status, email, phone, modified_on) VALUES ('17/10/202...
+                                                             ^
+HINT:  Perhaps you need a different "datestyle" setting.
+
+[SQL: INSERT INTO ctg_customers (start_date, full_name, company_name, status, email, phone, modified_on) VALUES (%(start_date)s, %(full_name)s, %(company_name)s, %(status)s, %(email)s, %(phone)s, %(modified_on)s) RETURNING ctg_customers.id, ctg_customers.created_on]
+[parameters: {'start_date': '17/10/2024', 'full_name': 'MONICA BARRAGAN BARRAGAN', 'company_name': 'MONICA BARRAGAN', 'status': True, 'email': 'MONICA@GMAIL.COM', 'phone': '3151042237', 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-10-16 16:22:27.916007
+ERROR:root:Pagination error: type object 'CtgCustomers' has no attribute 'to_char(start_date, 'YYYY-MM-DD')' - Time 2024-10-16 16:46:05.366507
+ERROR:root:Pagination error: type object 'CtgCustomers' has no attribute 'to_char(start_date, 'YYYY-MM-DD') as start_date' - Time 2024-10-16 16:46:53.550194
+ERROR:root:Pagination error: type object 'CtgCustomers' has no attribute 'to_char(start_date, 'YYYY-MM-DD') as start_date' - Time 2024-10-16 16:46:53.550194
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_ctg_customers.id does not exist
+LINE 3: WHERE view_ctg_customers.id = 'undefined'
+              ^
+
+[SQL: SELECT view_ctg_customers.start_date AS view_ctg_customers_start_date, view_ctg_customers.full_name AS view_ctg_customers_full_name, view_ctg_customers.company_name AS view_ctg_customers_company_name, view_ctg_customers.status AS view_ctg_customers_status, view_ctg_customers.email AS view_ctg_customers_email, view_ctg_customers.phone AS view_ctg_customers_phone 
+FROM view_ctg_customers 
+WHERE view_ctg_customers.id = %(id_1)s]
+[parameters: {'id_1': 'undefined'}]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-10-16 17:21:36.964760
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "undefined"
+LINE 3: WHERE view_ctg_customers.id = 'undefined'
+                                      ^
+
+[SQL: SELECT view_ctg_customers.start_date AS view_ctg_customers_start_date, view_ctg_customers.full_name AS view_ctg_customers_full_name, view_ctg_customers.company_name AS view_ctg_customers_company_name, view_ctg_customers.status AS view_ctg_customers_status, view_ctg_customers.email AS view_ctg_customers_email, view_ctg_customers.phone AS view_ctg_customers_phone 
+FROM view_ctg_customers 
+WHERE view_ctg_customers.id = %(id_1)s]
+[parameters: {'id_1': 'undefined'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-10-16 17:23:21.563499
+ERROR:root:Pagination error: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "undefined"
+LINE 3: WHERE view_ctg_customers.id = 'undefined'
+                                      ^
+
+[SQL: SELECT view_ctg_customers.start_date AS view_ctg_customers_start_date, view_ctg_customers.full_name AS view_ctg_customers_full_name, view_ctg_customers.company_name AS view_ctg_customers_company_name, view_ctg_customers.status AS view_ctg_customers_status, view_ctg_customers.email AS view_ctg_customers_email, view_ctg_customers.phone AS view_ctg_customers_phone 
+FROM view_ctg_customers 
+WHERE view_ctg_customers.id = %(id_1)s]
+[parameters: {'id_1': 'undefined'}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-10-16 17:23:21.563499
+ERROR:root:Update error: (psycopg2.errors.DatetimeFieldOverflow) date/time field value out of range: "18/10/2024"
+LINE 1: UPDATE ctg_customers SET start_date='18/10/2024', phone='315...
+                                            ^
+HINT:  Perhaps you need a different "datestyle" setting.
+
+[SQL: UPDATE ctg_customers SET start_date=%(start_date)s, phone=%(phone)s, modified_on=now() WHERE ctg_customers.id = %(ctg_customers_id)s]
+[parameters: {'start_date': '18/10/2024', 'phone': '3151049477', 'ctg_customers_id': 1}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-10-16 17:24:40.974348
+ERROR:root:Update error: (psycopg2.errors.DatetimeFieldOverflow) date/time field value out of range: "18/10/2024"
+LINE 1: UPDATE ctg_customers SET start_date='18/10/2024', modified_o...
+                                            ^
+HINT:  Perhaps you need a different "datestyle" setting.
+
+[SQL: UPDATE ctg_customers SET start_date=%(start_date)s, modified_on=now() WHERE ctg_customers.id = %(ctg_customers_id)s]
+[parameters: {'start_date': '18/10/2024', 'ctg_customers_id': 1}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-10-16 17:24:40.974348
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-17 07:11:38.022641
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-10-17 07:11:38.022641
+ERROR:root:Update error: (psycopg2.errors.InvalidDatetimeFormat) invalid input syntax for type timestamp with time zone: "undefined-undefined-2024-10-01"
+LINE 1: UPDATE ctg_customers SET start_date='undefined-undefined-202...
+                                            ^
+
+[SQL: UPDATE ctg_customers SET start_date=%(start_date)s, status=%(status)s, modified_on=now() WHERE ctg_customers.id = %(ctg_customers_id)s]
+[parameters: {'start_date': 'undefined-undefined-2024-10-01', 'status': False, 'ctg_customers_id': 1}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-10-17 09:47:05.521279
+ERROR:root:Pagination error: type object 'ViewCtgCustomers' has no attribute 'name' - Time 2024-10-17 20:16:42.801410
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_type_categories_options.id does not exist
+LINE 2: ...nt_id AS view_type_categories_options_account_id, view_type_...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_type_categories_options.value AS view_type_categories_options_value, view_type_categories_options.label AS view_type_categories_options_label, view_type_categories_options.account_id AS view_type_categories_options_account_id, view_type_categories_options.id AS view_type_categories_options_id 
+FROM view_type_categories_options) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-10-18 14:58:08.927343
+ERROR:root:Pagination error: type object 'SysStates' has no attribute 'id as value' - Time 2024-10-26 12:25:18.295004
+ERROR:root:Pagination error: type object 'SysStates' has no attribute 'id as value' - Time 2024-10-26 12:25:54.611780
+ERROR:root:Pagination error: type object 'ViewStates' has no attribute 'id as value' - Time 2024-10-26 12:36:08.010446
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-11-02 09:14:21.120006
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-11-02 09:14:21.120006
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-11-02 09:14:21.120006
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-11-02 09:14:21.120006
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-11-02 09:14:21.120006
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-11-02 10:58:46.759851
+ERROR:root:Pagination error: type object 'CtgSuppliers' has no attribute 'name' - Time 2024-11-07 14:10:24.546648
+ERROR:root:Pagination error: type object 'CtgCurrency' has no attribute '1' - Time 2024-11-08 11:36:54.875858
+ERROR:root:Pagination error: type object 'CtgCurrency' has no attribute '1' - Time 2024-11-08 11:36:54.875858
+ERROR:root:Pagination error: type object 'CtgCurrency' has no attribute '1' - Time 2024-11-08 11:36:54.875858
+ERROR:root:Pagination error: type object 'CtgCurrency' has no attribute '1' - Time 2024-11-08 11:36:54.875858
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-11-09 08:45:40.214710
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2024-11-09 08:45:40.214710
+ERROR:root:Pagination error: (psycopg2.errors.UndefinedColumn) column view_grid_suppliers.id does not exist
+LINE 2: ..._grid_suppliers.code AS view_grid_suppliers_code, view_grid_...
+                                                             ^
+
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT view_grid_suppliers.company_name AS view_grid_suppliers_company_name, view_grid_suppliers.trade_name AS view_grid_suppliers_trade_name, view_grid_suppliers.status AS view_grid_suppliers_status, view_grid_suppliers.email AS view_grid_suppliers_email, view_grid_suppliers.contact_name AS view_grid_suppliers_contact_name, view_grid_suppliers.phone AS view_grid_suppliers_phone, view_grid_suppliers.cell_phone AS view_grid_suppliers_cell_phone, view_grid_suppliers.rfc AS view_grid_suppliers_rfc, view_grid_suppliers.currency_id AS view_grid_suppliers_currency_id, view_grid_suppliers.street AS view_grid_suppliers_street, view_grid_suppliers.interior_number AS view_grid_suppliers_interior_number, view_grid_suppliers.exterior_number AS view_grid_suppliers_exterior_number, view_grid_suppliers.locality_id AS view_grid_suppliers_locality_id, view_grid_suppliers.account_id AS view_grid_suppliers_account_id, view_grid_suppliers.cp AS view_grid_suppliers_cp, view_grid_suppliers.code AS view_grid_suppliers_code, view_grid_suppliers.id AS view_grid_suppliers_id 
+FROM view_grid_suppliers) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-11-09 12:15:21.101797
+ERROR:root:Create error: (psycopg2.errors.StringDataRightTruncation) value too long for type character varying(5)
+
+[SQL: INSERT INTO ctg_line (code, name, has_merma, category_id, account_id, modified_on) VALUES (%(code)s, %(name)s, %(has_merma)s, %(category_id)s, %(account_id)s, %(modified_on)s) RETURNING ctg_line.id, ctg_line.created_on]
+[parameters: {'code': 'FRUTAS', 'name': 'FRUTAS', 'has_merma': True, 'category_id': 1, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-11-16 11:22:48.148521
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "ctg_line_uk_category_id_account_id"
+DETAIL:  Key (category_id, account_id)=(1, 1) already exists.
+
+[SQL: INSERT INTO ctg_line (code, name, has_merma, category_id, account_id, modified_on) VALUES (%(code)s, %(name)s, %(has_merma)s, %(category_id)s, %(account_id)s, %(modified_on)s) RETURNING ctg_line.id, ctg_line.created_on]
+[parameters: {'code': 'VER02', 'name': 'VERDURAS', 'has_merma': True, 'category_id': 1, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-11-16 11:55:45.298756
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "ctg_line_uk_category_id_account_id"
+DETAIL:  Key (category_id, account_id)=(1, 1) already exists.
+
+[SQL: INSERT INTO ctg_line (code, name, has_merma, category_id, account_id, modified_on) VALUES (%(code)s, %(name)s, %(has_merma)s, %(category_id)s, %(account_id)s, %(modified_on)s) RETURNING ctg_line.id, ctg_line.created_on]
+[parameters: {'code': 'VER02', 'name': 'VERDURAS', 'has_merma': True, 'category_id': 1, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-11-16 11:55:45.298756
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "ctg_line_uk_code_name_category_id_account_id"
+DETAIL:  Key (code, name, category_id, account_id)=(VER01, VERDURAS, 1, 1) already exists.
+
+[SQL: INSERT INTO ctg_line (code, name, has_merma, category_id, account_id, modified_on) VALUES (%(code)s, %(name)s, %(has_merma)s, %(category_id)s, %(account_id)s, %(modified_on)s) RETURNING ctg_line.id, ctg_line.created_on]
+[parameters: {'code': 'VER01', 'name': 'VERDURAS', 'has_merma': False, 'category_id': 1, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-11-16 14:35:38.437710
+ERROR:root:Create error: (psycopg2.errors.StringDataRightTruncation) value too long for type character varying(5)
+
+[SQL: INSERT INTO ctg_line (code, name, has_merma, category_id, account_id, modified_on) VALUES (%(code)s, %(name)s, %(has_merma)s, %(category_id)s, %(account_id)s, %(modified_on)s) RETURNING ctg_line.id, ctg_line.created_on]
+[parameters: {'code': 'PAST01', 'name': 'PASTAS', 'has_merma': False, 'category_id': 6, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-11-16 14:35:38.437710
+ERROR:root:Pagination error: type object 'CtgArticles' has no attribute 'category_id' - Time 2024-11-17 07:20:37.698936
+ERROR:root:Pagination error: type object 'ViewGridLines' has no attribute 'value' - Time 2024-11-17 07:51:26.824230
+ERROR:root:Pagination error: type object 'ViewGridLines' has no attribute 'value' - Time 2024-11-17 07:51:26.824230
+ERROR:root:Pagination error: type object 'ViewLinesOptions' has no attribute 'category_id' - Time 2024-11-17 08:03:33.270310
+ERROR:root:Pagination error: type object 'ViewCtgCustomers' has no attribute 'type_customer_id' - Time 2024-11-18 13:29:08.259956
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "ctg_customers_pkey"
+DETAIL:  Key (id)=(1) already exists.
+
+[SQL: INSERT INTO ctg_customers (start_date, full_name, company_name, status, email, phone, type_customer_id, account_id, modified_on) VALUES (%(start_date)s, %(full_name)s, %(company_name)s, %(status)s, %(email)s, %(phone)s, %(type_customer_id)s, %(account_id)s, %(modified_on)s) RETURNING ctg_customers.id, ctg_customers.created_on]
+[parameters: {'start_date': '2024-11-18', 'full_name': 'MARIA DE LOURDES', 'company_name': 'MARIA DE LOURDES SA DE CV', 'status': True, 'email': 'MARIA@GMAIL.COM', 'phone': '3151234777', 'type_customer_id': 1, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-11-18 13:44:46.310095
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "ctg_customers_pkey"
+DETAIL:  Key (id)=(2) already exists.
+
+[SQL: INSERT INTO ctg_customers (start_date, full_name, company_name, status, email, phone, type_customer_id, account_id, modified_on) VALUES (%(start_date)s, %(full_name)s, %(company_name)s, %(status)s, %(email)s, %(phone)s, %(type_customer_id)s, %(account_id)s, %(modified_on)s) RETURNING ctg_customers.id, ctg_customers.created_on]
+[parameters: {'start_date': '2024-11-19', 'full_name': 'MARIA DE LOURDES', 'company_name': 'MARIA DE LOURDES SA DE CV', 'status': True, 'email': 'MARIA@GMAIL.COM', 'phone': '3151234777', 'type_customer_id': 1, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2024-11-18 13:44:46.310095
+ERROR:root:Create error: (psycopg2.errors.DatetimeFieldOverflow) date/time field value out of range: "23/11/2024"
+LINE 1: ..._movement_id, account_id, modified_on) VALUES (1, '23/11/202...
+                                                             ^
+HINT:  Perhaps you need a different "datestyle" setting.
+
+[SQL: INSERT INTO inv_movements (type_movement_id, date, store_id, status_movement_id, account_id, modified_on) VALUES (%(type_movement_id)s, %(date)s, %(store_id)s, %(status_movement_id)s, %(account_id)s, %(modified_on)s) RETURNING inv_movements.id, inv_movements.created_on]
+[parameters: {'type_movement_id': 1, 'date': '23/11/2024', 'store_id': 3, 'status_movement_id': 1, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-11-23 18:21:57.400797
+ERROR:root:Update error: (psycopg2.errors.InvalidDatetimeFormat) invalid input syntax for type timestamp with time zone: "undefined-undefined-2024-11-24T00:00:00-08:00"
+LINE 1: UPDATE inv_movements SET date='undefined-undefined-2024-11-2...
+                                      ^
+
+[SQL: UPDATE inv_movements SET date=%(date)s, store_id=%(store_id)s, modified_on=now() WHERE inv_movements.id = %(inv_movements_id)s]
+[parameters: {'date': 'undefined-undefined-2024-11-24T00:00:00-08:00', 'store_id': 4, 'inv_movements_id': 1}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2024-11-23 18:56:15.128329
+ERROR:root:Pagination error: type object 'InvMovementsDetails' has no attribute 'name' - Time 2024-11-25 15:59:49.638629
+ERROR:root:Pagination error: type object 'InvMovementsDetails' has no attribute 'name' - Time 2024-11-25 15:59:49.638629
+ERROR:root:Pagination error: type object 'InvMovementsDetails' has no attribute 'name' - Time 2024-11-25 15:59:49.638629
+ERROR:root:Pagination error: type object 'InvMovementsDetails' has no attribute 'name' - Time 2024-11-25 15:59:49.638629
+ERROR:root:Delete error: (psycopg2.errors.UndefinedColumn) column inv_movements.folio does not exist
+LINE 1: ...movements.account_id AS inv_movements_account_id, inv_moveme...
+                                                             ^
+
+[SQL: SELECT inv_movements.id AS inv_movements_id, inv_movements.type_movement_id AS inv_movements_type_movement_id, inv_movements.date AS inv_movements_date, inv_movements.store_id AS inv_movements_store_id, inv_movements.status_movement_id AS inv_movements_status_movement_id, inv_movements.account_id AS inv_movements_account_id, inv_movements.folio AS inv_movements_folio, inv_movements.created_on AS inv_movements_created_on, inv_movements.modified_on AS inv_movements_modified_on 
+FROM inv_movements 
+WHERE inv_movements.id = %(pk_1)s]
+[parameters: {'pk_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-11-29 17:11:03.926143
+ERROR:root:Delete error: (psycopg2.errors.UndefinedColumn) column inv_movements.folio does not exist
+LINE 1: ...movements.account_id AS inv_movements_account_id, inv_moveme...
+                                                             ^
+
+[SQL: SELECT inv_movements.id AS inv_movements_id, inv_movements.type_movement_id AS inv_movements_type_movement_id, inv_movements.date AS inv_movements_date, inv_movements.store_id AS inv_movements_store_id, inv_movements.status_movement_id AS inv_movements_status_movement_id, inv_movements.account_id AS inv_movements_account_id, inv_movements.folio AS inv_movements_folio, inv_movements.created_on AS inv_movements_created_on, inv_movements.modified_on AS inv_movements_modified_on 
+FROM inv_movements 
+WHERE inv_movements.id = %(pk_1)s]
+[parameters: {'pk_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2024-11-29 17:11:03.926143
+ERROR:root:Pagination error: type object 'ViewMovementsGrid' has no attribute '' - Time 2024-12-08 19:10:03.022304
+ERROR:root:Pagination error: type object 'CtgSuppliers' has no attribute 'name' - Time 2025-01-11 18:03:04.377857
+ERROR:root:Pagination error: type object 'CtgSuppliers' has no attribute 'name' - Time 2025-01-11 18:03:04.377857
+ERROR:root:Pagination error: type object 'CtgSuppliers' has no attribute 'name' - Time 2025-01-11 18:03:04.377857
+ERROR:root:Pagination error: type object 'ViewGridSuppliers' has no attribute 'name' - Time 2025-01-11 18:03:04.377857
+ERROR:root:Pagination error: type object 'ViewGridSuppliers' has no attribute 'name' - Time 2025-01-11 18:03:04.377857
+ERROR:root:Pagination error: type object 'ViewPurOrders' has no attribute 'company_name' - Time 2025-01-19 16:00:01.837323
+ERROR:root:Pagination error: type object 'ViewPurOrders' has no attribute 'company_name' - Time 2025-01-19 16:00:01.837323
+ERROR:root:Pagination error: type object 'ViewPurOrdersOptionsIVA' has no attribute 'ìd' - Time 2025-01-25 18:09:11.352002
+ERROR:root:Pagination error: type object 'ViewPurOrdersOptionsIVA' has no attribute 'ìd' - Time 2025-01-25 18:09:11.352002
+ERROR:root:Pagination error: type object 'ViewPurOrdersOptionsIVA' has no attribute 'ìd' - Time 2025-01-25 18:14:26.039543
+ERROR:root:Pagination error: type object 'ViewPurOrdersOptionsIVA' has no attribute 'ìd' - Time 2025-01-25 18:14:26.039543
+ERROR:root:Pagination error: type object 'ViewPurOrdersOptionsIVA' has no attribute 'ìd' - Time 2025-01-25 18:19:42.908255
+ERROR:root:Pagination error: type object 'ViewPurOrdersOptionsIVA' has no attribute 'ìd' - Time 2025-01-25 18:23:10.666877
+ERROR:root:Pagination error: type object 'ViewPurOrdersOptionsIVA' has no attribute 'ìd' - Time 2025-01-25 18:37:56.688187
+ERROR:root:Pagination error: type object 'ViewPurOrdersOptionsIVA' has no attribute 'ìd' - Time 2025-01-25 18:37:56.688187
+ERROR:root:Pagination error: type object 'PurOrdersDetails' has no attribute 'menu_id' - Time 2025-01-26 14:58:00.159149
+ERROR:root:Pagination error: type object 'PurOrdersDetails' has no attribute 'menu_id' - Time 2025-01-26 14:58:00.159149
+ERROR:root:Pagination error: type object 'PurOrdersDetails' has no attribute 'name' - Time 2025-01-26 14:58:00.159149
+ERROR:root:Pagination error: type object 'PurOrdersDetails' has no attribute 'name' - Time 2025-01-26 14:58:00.159149
+ERROR:root:Pagination error: type object 'PurOrdersDetails' has no attribute 'article' - Time 2025-01-26 15:32:56.857423
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_id' - Time 2025-01-26 15:32:56.857423
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_id' - Time 2025-01-26 15:32:56.857423
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'amount' - Time 2025-01-26 15:56:08.561521
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-02-05 06:17:25.839964
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-02-05 06:17:25.839964
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-02-05 06:17:25.839964
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-02-05 06:17:25.839964
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-02-05 06:17:25.839964
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-02-05 06:17:25.839964
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-02-05 06:17:25.839964
+ERROR:root:Pagination error: type object 'PurReceipts' has no attribute 'article' - Time 2025-02-15 07:47:41.467504
+ERROR:root:Create error: (psycopg2.errors.DatetimeFieldOverflow) date/time field value out of range: "15/02/2025"
+LINE 1: ...account_id, modified_on) VALUES ('2025000001', 1, '15/02/202...
+                                                             ^
+HINT:  Perhaps you need a different "datestyle" setting.
+
+[SQL: INSERT INTO pur_receipts (folio, order_id, date, hour, account_id, modified_on) VALUES (%(folio)s, %(order_id)s, %(date)s, %(hour)s, %(account_id)s, %(modified_on)s) RETURNING pur_receipts.id, pur_receipts.created_on]
+[parameters: {'folio': '2025000001', 'order_id': 1, 'date': '15/02/2025', 'hour': '16:03', 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2025-02-15 07:47:41.467504
+ERROR:root:Pagination error: Textual column expression '' should be explicitly declared with text(''), or use literal_column('') for more specificity - Time 2025-02-15 07:47:41.467504
+ERROR:root:Pagination error: Textual column expression '' should be explicitly declared with text(''), or use literal_column('') for more specificity - Time 2025-02-15 07:47:41.467504
+ERROR:root:Pagination error: Textual column expression '' should be explicitly declared with text(''), or use literal_column('') for more specificity - Time 2025-02-15 07:47:41.467504
+ERROR:root:Pagination error: Textual column expression '' should be explicitly declared with text(''), or use literal_column('') for more specificity - Time 2025-02-15 07:47:41.467504
+ERROR:root:Pagination error: Textual column expression '' should be explicitly declared with text(''), or use literal_column('') for more specificity - Time 2025-02-15 07:47:41.467504
+ERROR:root:Pagination error: Textual column expression '' should be explicitly declared with text(''), or use literal_column('') for more specificity - Time 2025-02-15 07:47:41.467504
+ERROR:root:Pagination error: Textual column expression '' should be explicitly declared with text(''), or use literal_column('') for more specificity - Time 2025-02-15 07:47:41.467504
+ERROR:root:Pagination error: Textual column expression '' should be explicitly declared with text(''), or use literal_column('') for more specificity - Time 2025-02-15 07:47:41.467504
+ERROR:root:Pagination error: Textual column expression '' should be explicitly declared with text(''), or use literal_column('') for more specificity - Time 2025-02-15 07:47:41.467504
+ERROR:root:Pagination error: Textual column expression '' should be explicitly declared with text(''), or use literal_column('') for more specificity - Time 2025-02-15 07:47:41.467504
+ERROR:root:Pagination error: Textual column expression 'ViewPurReceipts' should be explicitly declared with text('ViewPurReceipts'), or use column('ViewPurReceipts') for more specificity - Time 2025-02-15 16:33:25.683612
+ERROR:root:Pagination error: Textual column expression 'ViewPurReceipts' should be explicitly declared with text('ViewPurReceipts'), or use column('ViewPurReceipts') for more specificity - Time 2025-02-15 16:33:25.683612
+ERROR:root:Pagination error: Textual column expression 'ViewPurReceipts' should be explicitly declared with text('ViewPurReceipts'), or use column('ViewPurReceipts') for more specificity - Time 2025-02-15 16:35:25.705891
+ERROR:root:Pagination error: type object 'PurReceivedDetails' has no attribute 'order_id' - Time 2025-02-22 12:54:32.249509
+ERROR:root:Pagination error: type object 'PurReceivedDetails' has no attribute 'order_id' - Time 2025-02-22 12:54:32.249509
+ERROR:root:Pagination error: type object 'PurReceivedDetails' has no attribute 'order_id' - Time 2025-02-22 12:54:32.249509
+ERROR:root:Pagination error: type object 'PurReceivedDetails' has no attribute 'order_id' - Time 2025-02-22 12:54:32.249509
+ERROR:root:Delete error: (psycopg2.errors.ForeignKeyViolation) update or delete on table "pur_receipts" violates foreign key constraint "pur_received_details_receipt_id_fkey" on table "pur_received_details"
+DETAIL:  Key (id)=(1) is still referenced from table "pur_received_details".
+
+[SQL: DELETE FROM pur_receipts WHERE pur_receipts.id = %(id)s]
+[parameters: {'id': 1}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-02-27 09:41:52.939952
+ERROR:root:Update error: (psycopg2.errors.UndefinedColumn) column "cost_0" does not exist
+LINE 3:                         VALUES (1, 6, 7.000, cost_0, 7.000),...
+                                                     ^
+HINT:  Perhaps you meant to reference the column "inv_movements_details.cost".
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(article_id_0)s, %(quantity_0)s, %(cost_0)s, cost_0, %(cost_0)s), (%(article_id_1)s, %(quantity_1)s, %(cost_1)s, cost_1, %(cost_1)s)
+                    ]
+[parameters: {'article_id_0': 1, 'quantity_0': 6, 'cost_0': Decimal('7.000'), 'article_id_1': 1, 'quantity_1': 1, 'cost_1': Decimal('1.000')}]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2025-03-01 16:53:38.481724
+ERROR:root:Update error: (psycopg2.errors.UndefinedColumn) column "movement_id" does not exist
+LINE 3:                         VALUES (1, 1.000, 23.00, movement_id...
+                                                         ^
+HINT:  There is a column named "movement_id" in table "inv_movements_details", but it cannot be referenced from this part of the query.
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(article_id)s, %(quantity)s, %(cost)s, movement_id, %(quantity)s), (%(article_id)s, %(quantity)s, %(cost)s, movement_id, %(quantity)s)
+                    ]
+[parameters: {'article_id': 1, 'quantity': Decimal('1.000'), 'cost': Decimal('23.00')}]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2025-03-01 17:05:33.530789
+ERROR:root:Update error: (psycopg2.errors.UndefinedColumn) column "movement_id" does not exist
+LINE 3:                         VALUES (1, 1.000, 23.00, movement_id...
+                                                         ^
+HINT:  There is a column named "movement_id" in table "inv_movements_details", but it cannot be referenced from this part of the query.
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(article_id)s, %(quantity)s, %(cost)s, movement_id, %(quantity)s), (%(article_id)s, %(quantity)s, %(cost)s, movement_id, %(quantity)s)
+                    ]
+[parameters: {'article_id': 1, 'quantity': Decimal('1.000'), 'cost': Decimal('23.00')}]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2025-03-01 17:09:30.623267
+ERROR:root:Update error: (psycopg2.errors.UndefinedColumn) column "movement_id" does not exist
+LINE 3:                         VALUES (1, 1.000, 23.00, movement_id...
+                                                         ^
+HINT:  There is a column named "movement_id" in table "inv_movements_details", but it cannot be referenced from this part of the query.
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(article_id)s, %(quantity)s, %(cost)s, movement_id, %(quantity)s), (%(article_id)s, %(quantity)s, %(cost)s, movement_id, %(quantity)s)
+                    ]
+[parameters: {'article_id': 1, 'quantity': Decimal('1.000'), 'cost': Decimal('23.00')}]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2025-03-01 17:11:45.640233
+ERROR:root:Update error: (psycopg2.errors.UndefinedColumn) column "movement_id" does not exist
+LINE 3:                         VALUES (1, 1.000, 23.00, movement_id...
+                                                         ^
+HINT:  There is a column named "movement_id" in table "inv_movements_details", but it cannot be referenced from this part of the query.
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(article_id)s, %(quantity)s, %(cost)s, movement_id, %(quantity)s), (%(article_id)s, %(quantity)s, %(cost)s, movement_id, %(quantity)s)
+                    ]
+[parameters: {'article_id': 1, 'quantity': Decimal('1.000'), 'cost': Decimal('23.00')}]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2025-03-01 17:31:07.874259
+ERROR:root:Update error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "inv_movements_details_uk_article"
+DETAIL:  Key (article_id, movement_id, account_id)=(1, 1, 37) already exists.
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(article_id)s, %(quantity)s, %(cost)s, %(movement_id)s, %(quantity)s), (%(article_id)s, %(quantity)s, %(cost)s, %(movement_id)s, %(quantity)s)
+                    ]
+[parameters: {'article_id': 1, 'quantity': Decimal('1.000'), 'cost': Decimal('23.00'), 'movement_id': 37}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-03-01 17:36:30.090295
+ERROR:root:Update error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "inv_movements_details_uk_article"
+DETAIL:  Key (article_id, movement_id, account_id)=(1, 1, 38) already exists.
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(article_id)s, %(quantity)s, %(cost)s, %(movement_id)s, %(quantity)s), (%(article_id)s, %(quantity)s, %(cost)s, %(movement_id)s, %(quantity)s)
+                    ]
+[parameters: {'article_id': 1, 'quantity': Decimal('1.000'), 'cost': Decimal('23.00'), 'movement_id': 38}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-03-01 17:36:30.090295
+ERROR:root:Update error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "inv_movements_details_uk_article"
+DETAIL:  Key (article_id, movement_id, account_id)=(1, 1, 39) already exists.
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(article_id)s, %(quantity)s, %(cost)s, %(movement_id)s, %(quantity)s), (%(article_id)s, %(quantity)s, %(cost)s, %(movement_id)s, %(quantity)s)
+                    ]
+[parameters: {'article_id': 1, 'quantity': Decimal('1.000'), 'cost': Decimal('23.00'), 'movement_id': 39}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-03-01 17:55:31.173330
+ERROR:root:Update error: (psycopg2.errors.ForeignKeyViolation) insert or update on table "inv_movements_details" violates foreign key constraint "inv_movements_details_account_id_fkey"
+DETAIL:  Key (account_id)=(40) is not present in table "accounts".
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(article_id_0)s, %(quantity_0)s, %(cost_0)s, %(movement_id_0)s, %(quantity_0)s), (%(article_id_1)s, %(quantity_1)s, %(cost_1)s, %(movement_id_1)s, %(quantity_1)s)
+                    ]
+[parameters: {'article_id_0': 1, 'quantity_0': Decimal('7.000'), 'cost_0': Decimal('45.00'), 'movement_id_0': 40, 'article_id_1': 1, 'quantity_1': Decimal('1.000'), 'cost_1': Decimal('23.00'), 'movement_id_1': 40}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-03-01 18:17:45.373556
+ERROR:root:Update error: (psycopg2.errors.ForeignKeyViolation) insert or update on table "inv_movements_details" violates foreign key constraint "inv_movements_details_account_id_fkey"
+DETAIL:  Key (account_id)=(44) is not present in table "accounts".
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(article_id_0)s, %(quantity_0)s, %(cost_0)s, %(movement_id_0)s, %(quantity_0)s), (%(article_id_1)s, %(quantity_1)s, %(cost_1)s, %(movement_id_1)s, %(quantity_1)s)
+                    ]
+[parameters: {'article_id_0': 1, 'quantity_0': Decimal('7.000'), 'cost_0': Decimal('45.00'), 'movement_id_0': 44, 'article_id_1': 1, 'quantity_1': Decimal('1.000'), 'cost_1': Decimal('23.00'), 'movement_id_1': 44}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-03-01 18:19:55.044641
+ERROR:root:Update error: (psycopg2.errors.ForeignKeyViolation) insert or update on table "inv_movements_details" violates foreign key constraint "inv_movements_details_account_id_fkey"
+DETAIL:  Key (account_id)=(45) is not present in table "accounts".
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(account_id_0)s, %(article_id_0)s, %(cost_0)s, %(movement_id_0)s, %(quantity_0)s), (%(account_id_1)s, %(article_id_1)s, %(cost_1)s, %(movement_id_1)s, %(quantity_1)s)
+                    ]
+[parameters: {'account_id_0': 1, 'article_id_0': 6, 'cost_0': Decimal('45.00'), 'movement_id_0': 45, 'quantity_0': Decimal('7.000'), 'account_id_1': 1, 'article_id_1': 1, 'cost_1': Decimal('23.00'), 'movement_id_1': 45, 'quantity_1': Decimal('1.000')}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-03-01 18:24:35.522018
+ERROR:root:Update error: (psycopg2.errors.ForeignKeyViolation) insert or update on table "inv_movements_details" violates foreign key constraint "inv_movements_details_account_id_fkey"
+DETAIL:  Key (account_id)=(47) is not present in table "accounts".
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(account_id_0)s, %(article_id_0)s, %(cost_0)s, %(movement_id_0)s, %(quantity_0)s), (%(account_id_1)s, %(article_id_1)s, %(cost_1)s, %(movement_id_1)s, %(quantity_1)s)
+                    ]
+[parameters: {'account_id_0': 1, 'article_id_0': 6, 'cost_0': Decimal('45.00'), 'movement_id_0': 47, 'quantity_0': Decimal('7.000'), 'account_id_1': 1, 'article_id_1': 1, 'cost_1': Decimal('23.00'), 'movement_id_1': 47, 'quantity_1': Decimal('1.000')}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-03-01 19:43:07.818973
+ERROR:root:Update error: (psycopg2.errors.SyntaxError) syntax error at or near ","
+LINE 3: ...                      VALUES (6, 7.000,  45.00, 1,, 48), (1,...
+                                                             ^
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(article_id_0)s, %(quantity_0)s,  %(cost_0)s, %(account_id_0)s,, %(movement_id_0)s), (%(article_id_1)s, %(quantity_1)s,  %(cost_1)s, %(account_id_1)s,, %(movement_id_1)s)
+                    ]
+[parameters: {'article_id_0': 6, 'quantity_0': Decimal('7.000'), 'cost_0': Decimal('45.00'), 'account_id_0': 1, 'movement_id_0': 48, 'article_id_1': 1, 'quantity_1': Decimal('1.000'), 'cost_1': Decimal('23.00'), 'account_id_1': 1, 'movement_id_1': 48}]
+(Background on this error at: https://sqlalche.me/e/20/f405) - Time 2025-03-01 19:51:45.546234
+ERROR:root:Update error: (psycopg2.errors.ForeignKeyViolation) insert or update on table "inv_movements_details" violates foreign key constraint "inv_movements_details_movement_id_fkey"
+DETAIL:  Key (movement_id)=(49) is not present in table "inv_movements".
+
+[SQL: 
+                        INSERT INTO inv_movements_details (article_id, quantity, cost, account_id, movement_id)
+                        VALUES (%(article_id_0)s, %(quantity_0)s,  %(cost_0)s, %(account_id_0)s,%(movement_id_0)s), (%(article_id_1)s, %(quantity_1)s,  %(cost_1)s, %(account_id_1)s,%(movement_id_1)s)
+                    ]
+[parameters: {'article_id_0': 6, 'quantity_0': Decimal('7.000'), 'cost_0': Decimal('45.00'), 'account_id_0': 1, 'movement_id_0': 49, 'article_id_1': 1, 'quantity_1': Decimal('1.000'), 'cost_1': Decimal('23.00'), 'account_id_1': 1, 'movement_id_1': 49}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-03-01 19:52:56.848943
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "pur_received_details_uk_detail_article"
+DETAIL:  Key (receipt_id, detail_id)=(5, 5) already exists.
+
+[SQL: INSERT INTO pur_received_details (receipt_id, detail_id, quantity, comments, modified_on) VALUES (%(receipt_id)s, %(detail_id)s, %(quantity)s, %(comments)s, %(modified_on)s) RETURNING pur_received_details.id, pur_received_details.created_on]
+[parameters: {'receipt_id': 5, 'detail_id': 5, 'quantity': 3.0, 'comments': None, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-03-22 16:55:45.825178
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-03-29 11:34:16.102420
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-03-29 11:34:16.102420
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-03-29 11:34:16.102420
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-03-29 11:34:16.102420
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-03-29 11:34:16.102420
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-03-29 11:34:16.102420
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-03-29 11:34:16.102420
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-03-29 11:34:16.102420
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-03-29 11:34:16.102420
+ERROR:root:Pagination error: type object 'ViewCtgtoreCounters' has no attribute 'name' - Time 2025-04-04 19:06:09.858837
+ERROR:root:Pagination error: type object 'ViewCtgtoreCounters' has no attribute 'name' - Time 2025-04-04 19:06:09.858837
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sls_store_counters_uk_default"
+DETAIL:  Key (branch_id, account_id, "default")=(1, 1, t) already exists.
+
+[SQL: INSERT INTO sls_store_counters (name, branch_id, account_id, "default", modified_on) VALUES (%(name)s, %(branch_id)s, %(account_id)s, %(default)s, %(modified_on)s) RETURNING sls_store_counters.id, sls_store_counters.created_on]
+[parameters: {'name': 'AREA REFRIGERADORES', 'branch_id': 1, 'account_id': 1, 'default': True, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-04-05 08:09:40.818735
+ERROR:root:Update error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sls_store_counters_uk_default"
+DETAIL:  Key (branch_id, account_id, "default")=(1, 1, t) already exists.
+
+[SQL: UPDATE sls_store_counters SET "default"=%(default)s, modified_on=now() WHERE sls_store_counters.id = %(sls_store_counters_id)s]
+[parameters: {'default': True, 'sls_store_counters_id': 5}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-04-05 08:22:47.373842
+ERROR:root:Pagination error: type object 'ViewCtgtoreCountersOptions' has no attribute 'branch_id' - Time 2025-04-05 08:22:47.373842
+ERROR:root:Pagination error: type object 'ViewCtgtoreCountersOptions' has no attribute 'branch_id' - Time 2025-04-05 08:22:47.373842
+ERROR:root:Pagination error: Textual column expression 'ViewUser' should be explicitly declared with text('ViewUser'), or use column('ViewUser') for more specificity - Time 2025-04-05 11:22:41.192330
+ERROR:root:Pagination error: type object 'ViewUser' has no attribute 'branch_id' - Time 2025-04-05 11:23:26.745183
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sls_store_counters_uk_default"
+DETAIL:  Key (branch_id, account_id, "default")=(1, 1, f) already exists.
+
+[SQL: INSERT INTO sls_store_counters (name, branch_id, account_id, "default", modified_on) VALUES (%(name)s, %(branch_id)s, %(account_id)s, %(default)s, %(modified_on)s) RETURNING sls_store_counters.id, sls_store_counters.created_on]
+[parameters: {'name': 'AREA SABRITAS', 'branch_id': 1, 'account_id': 1, 'default': False, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-04-05 11:25:03.950785
+ERROR:root:Pagination error: type object 'CtgBranches' has no attribute 'branch_id' - Time 2025-04-05 12:38:58.707447
+ERROR:root:Pagination error: type object 'CtgBranches' has no attribute 'branch_id' - Time 2025-04-05 12:38:58.707447
+ERROR:root:Pagination error: type object 'CtgBranches' has no attribute 'branch_id' - Time 2025-04-05 12:38:58.707447
+ERROR:root:Pagination error: type object 'CtgBranches' has no attribute 'branch_id' - Time 2025-04-05 12:38:58.707447
+ERROR:root:Pagination error: type object 'CtgBranches' has no attribute 'branch_id' - Time 2025-04-05 12:38:58.707447
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-04-05 13:02:01.384457
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-04-05 13:02:01.384457
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "ctg_customers_pkey"
+DETAIL:  Key (id)=(3) already exists.
+
+[SQL: INSERT INTO ctg_customers (start_date, full_name, company_name, status, email, phone, type_customer_id, account_id, modified_on) VALUES (%(start_date)s, %(full_name)s, %(company_name)s, %(status)s, %(email)s, %(phone)s, %(type_customer_id)s, %(account_id)s, %(modified_on)s) RETURNING ctg_customers.id, ctg_customers.created_on]
+[parameters: {'start_date': '2025-04-05', 'full_name': 'PUBLICO EN GENERAL', 'company_name': 'PUBLICO EN GENERAL', 'status': True, 'email': 'PUBLIC@PUBLICO.MX', 'phone': '1111111111', 'type_customer_id': 1, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-04-05 14:10:08.667715
+ERROR:root:Create error: (psycopg2.errors.InvalidDatetimeFormat) invalid input syntax for type timestamp with time zone: "undefined-undefined-2025-04-05"
+LINE 1: ...ype_customer_id, account_id, modified_on) VALUES ('undefined...
+                                                             ^
+
+[SQL: INSERT INTO ctg_customers (start_date, full_name, company_name, status, email, phone, type_customer_id, account_id, modified_on) VALUES (%(start_date)s, %(full_name)s, %(company_name)s, %(status)s, %(email)s, %(phone)s, %(type_customer_id)s, %(account_id)s, %(modified_on)s) RETURNING ctg_customers.id, ctg_customers.created_on]
+[parameters: {'start_date': 'undefined-undefined-2025-04-05', 'full_name': 'PUBLICO EN GENERAL', 'company_name': 'PUBLICO EN GENERAL', 'status': True, 'email': 'PUBLIC@PUBLICO.MX', 'phone': '1111111111', 'type_customer_id': 1, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2025-04-05 14:10:08.667715
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "ctg_customers_pkey"
+DETAIL:  Key (id)=(4) already exists.
+
+[SQL: INSERT INTO ctg_customers (start_date, full_name, company_name, status, email, phone, type_customer_id, account_id, modified_on) VALUES (%(start_date)s, %(full_name)s, %(company_name)s, %(status)s, %(email)s, %(phone)s, %(type_customer_id)s, %(account_id)s, %(modified_on)s) RETURNING ctg_customers.id, ctg_customers.created_on]
+[parameters: {'start_date': '2025-04-05', 'full_name': 'PUBLICO EN GENERAL', 'company_name': 'PUBLICO EN GENERAL', 'status': True, 'email': 'PUBLICO@GENERAL.MX', 'phone': '1111111111', 'type_customer_id': 1, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-04-05 14:10:08.667715
+ERROR:root:Create error: (psycopg2.errors.InvalidDatetimeFormat) invalid input syntax for type timestamp with time zone: "undefined-undefined-2025-04-05"
+LINE 1: ...ype_customer_id, account_id, modified_on) VALUES ('undefined...
+                                                             ^
+
+[SQL: INSERT INTO ctg_customers (start_date, full_name, company_name, status, email, phone, type_customer_id, account_id, modified_on) VALUES (%(start_date)s, %(full_name)s, %(company_name)s, %(status)s, %(email)s, %(phone)s, %(type_customer_id)s, %(account_id)s, %(modified_on)s) RETURNING ctg_customers.id, ctg_customers.created_on]
+[parameters: {'start_date': 'undefined-undefined-2025-04-05', 'full_name': 'PUBLICO EN GENERAL', 'company_name': 'PUBLICO EN GENERAL', 'status': True, 'email': 'PUBLICO@GENERAL.MX', 'phone': '1111111111', 'type_customer_id': 1, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2025-04-05 14:10:08.667715
+ERROR:root:Update error: (psycopg2.errors.InvalidDatetimeFormat) invalid input syntax for type timestamp with time zone: "undefined-undefined-2024-10-03T00:00:00-07:00"
+LINE 1: UPDATE ctg_customers SET start_date='undefined-undefined-202...
+                                            ^
+
+[SQL: UPDATE ctg_customers SET start_date=%(start_date)s, "default"=%(default)s, modified_on=now() WHERE ctg_customers.id = %(ctg_customers_id)s]
+[parameters: {'start_date': 'undefined-undefined-2024-10-03T00:00:00-07:00', 'default': False, 'ctg_customers_id': 2}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2025-04-06 07:58:29.765179
+ERROR:root:Update error: (psycopg2.errors.InvalidDatetimeFormat) invalid input syntax for type timestamp with time zone: "undefined-undefined-2024-10-03T00:00:00-07:00"
+LINE 1: UPDATE ctg_customers SET start_date='undefined-undefined-202...
+                                            ^
+
+[SQL: UPDATE ctg_customers SET start_date=%(start_date)s, "default"=%(default)s, modified_on=now() WHERE ctg_customers.id = %(ctg_customers_id)s]
+[parameters: {'start_date': 'undefined-undefined-2024-10-03T00:00:00-07:00', 'default': False, 'ctg_customers_id': 2}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2025-04-06 07:58:29.765179
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "ctg_customers_uk_email"
+DETAIL:  Key (email)=(MARIA@GMAIL.COM) already exists.
+
+[SQL: INSERT INTO ctg_customers (start_date, full_name, company_name, status, email, phone, type_customer_id, account_id, "default", modified_on) VALUES (%(start_date)s, %(full_name)s, %(company_name)s, %(status)s, %(email)s, %(phone)s, %(type_customer_id)s, %(account_id)s, %(default)s, %(modified_on)s) RETURNING ctg_customers.id, ctg_customers.created_on]
+[parameters: {'start_date': '2025-04-07', 'full_name': 'MARIA', 'company_name': 'MARIA', 'status': True, 'email': 'MARIA@GMAIL.COM', 'phone': '1234567897', 'type_customer_id': 6, 'account_id': 1, 'default': True, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-04-06 07:58:29.765179
+ERROR:root:Create error: (psycopg2.errors.InvalidDatetimeFormat) invalid input syntax for type timestamp with time zone: "undefined-undefined-2025-04-07"
+LINE 1: ...r_id, account_id, "default", modified_on) VALUES ('undefined...
+                                                             ^
+
+[SQL: INSERT INTO ctg_customers (start_date, full_name, company_name, status, email, phone, type_customer_id, account_id, "default", modified_on) VALUES (%(start_date)s, %(full_name)s, %(company_name)s, %(status)s, %(email)s, %(phone)s, %(type_customer_id)s, %(account_id)s, %(default)s, %(modified_on)s) RETURNING ctg_customers.id, ctg_customers.created_on]
+[parameters: {'start_date': 'undefined-undefined-2025-04-07', 'full_name': 'MARIA', 'company_name': 'MARIA', 'status': True, 'email': 'MARIAA@GMAIL.COM', 'phone': '1234567897', 'type_customer_id': 6, 'account_id': 1, 'default': True, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h) - Time 2025-04-06 07:58:29.765179
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-04-11 19:18:00.412494
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-04-11 19:18:00.412494
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-04-11 19:18:00.412494
+ERROR:root:Pagination error: type object 'ViewCtgCustomersOptions' has no attribute 'default' - Time 2025-04-11 19:18:00.412494
+ERROR:root:Pagination error: type object 'ViewCtgCustomersOptions' has no attribute 'default' - Time 2025-04-11 19:18:00.412494
+ERROR:root:Pagination error: type object 'ViewCtgCustomersOptions' has no attribute 'default' - Time 2025-04-11 19:18:00.412494
+ERROR:root:Pagination error: type object 'ViewCtgCustomersOptions' has no attribute 'default' - Time 2025-04-11 19:18:00.412494
+ERROR:root:Pagination error: type object 'ViewCtgCustomersOptions' has no attribute 'default' - Time 2025-04-11 19:32:35.352588
+ERROR:root:Pagination error: type object 'ViewCtgCustomersOptions' has no attribute 'default' - Time 2025-04-11 19:33:41.383630
+ERROR:root:Pagination error: type object 'ViewSlsSales' has no attribute 'user_id' - Time 2025-04-12 13:45:44.572113
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-04-19 10:49:07.711452
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-04-19 10:49:07.711452
+ERROR:root:Pagination error: type object 'CtgArticlePrices' has no attribute 'order_id' - Time 2025-04-19 10:49:07.711452
+ERROR:root:Pagination error: type object 'CtgArticlePrices' has no attribute 'order_id' - Time 2025-04-19 10:49:07.711452
+ERROR:root:Update error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-04-19 12:31:07.309177
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sls_sales_details_observations_key"
+DETAIL:  Key (observations)=() already exists.
+
+[SQL: INSERT INTO sls_sales_details (sale_id, article_id, quantity, unit_price, discount, subtotal, tax, observations, account_id, modified_on) VALUES (%(sale_id)s, %(article_id)s, %(quantity)s, %(unit_price)s, %(discount)s, %(subtotal)s, %(tax)s, %(observations)s, %(account_id)s, %(modified_on)s) RETURNING sls_sales_details.id, sls_sales_details.created_on]
+[parameters: {'sale_id': 5, 'article_id': 1, 'quantity': 1.0, 'unit_price': 25.0, 'discount': 0.0, 'subtotal': 25.0, 'tax': 16.0, 'observations': '', 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-04-19 16:06:49.402686
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sls_sales_details_observations_key"
+DETAIL:  Key (observations)=() already exists.
+
+[SQL: INSERT INTO sls_sales_details (sale_id, article_id, quantity, unit_price, discount, subtotal, tax, observations, account_id, modified_on) VALUES (%(sale_id)s, %(article_id)s, %(quantity)s, %(unit_price)s, %(discount)s, %(subtotal)s, %(tax)s, %(observations)s, %(account_id)s, %(modified_on)s) RETURNING sls_sales_details.id, sls_sales_details.created_on]
+[parameters: {'sale_id': 5, 'article_id': 1, 'quantity': 1.0, 'unit_price': 25.0, 'discount': 0.0, 'subtotal': 25.0, 'tax': 16.0, 'observations': '', 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-04-19 16:06:49.402686
+ERROR:root:Pagination error: type object 'ViewGridArticles' has no attribute 'iva_id' - Time 2025-04-26 19:35:25.301233
+ERROR:root:Pagination error: type object 'ViewGridArticles' has no attribute 'iva_id' - Time 2025-04-26 19:35:25.301233
+ERROR:root:Pagination error: type object 'ViewGridArticles' has no attribute 'iva_id' - Time 2025-04-26 19:37:29.950346
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "ctg_suppliers_pkey"
+DETAIL:  Key (id)=(1) already exists.
+
+[SQL: INSERT INTO ctg_suppliers (company_name, trade_name, status, email, contact_name, phone, cell_phone, rfc, currency_id, street, interior_number, exterior_number, locality_id, account_id, modified_on) VALUES (%(company_name)s, %(trade_name)s, %(status)s, %(email)s, %(contact_name)s, %(phone)s, %(cell_phone)s, %(rfc)s, %(currency_id)s, %(street)s, %(interior_number)s, %(exterior_number)s, %(locality_id)s, %(account_id)s, %(modified_on)s) RETURNING ctg_suppliers.id, ctg_suppliers.created_on]
+[parameters: {'company_name': 'DISTRIBUIDORA FARMACEUTICA DE JALISCO SA DE CV', 'trade_name': 'DISTRIBUIDORA FARMACEUTICA DE JALISCO', 'status': True, 'email': 'DIFAJ@GMAIL.COM', 'contact_name': 'DISTRIBUIDORA FARMACEUTICA', 'phone': '3151097753', 'cell_phone': '3151097753', 'rfc': 'LORR820803P77', 'currency_id': 1, 'street': 'PROLONGACION CAHUTEMOC 234 1', 'interior_number': '1', 'exterior_number': '234', 'locality_id': 64629, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-05-01 09:01:45.612911
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "ctg_suppliers_pkey"
+DETAIL:  Key (id)=(3) already exists.
+
+[SQL: INSERT INTO ctg_suppliers (company_name, trade_name, status, email, contact_name, phone, cell_phone, rfc, currency_id, street, interior_number, exterior_number, locality_id, account_id, modified_on) VALUES (%(company_name)s, %(trade_name)s, %(status)s, %(email)s, %(contact_name)s, %(phone)s, %(cell_phone)s, %(rfc)s, %(currency_id)s, %(street)s, %(interior_number)s, %(exterior_number)s, %(locality_id)s, %(account_id)s, %(modified_on)s) RETURNING ctg_suppliers.id, ctg_suppliers.created_on]
+[parameters: {'company_name': 'DISTRIBUIDORA FARMACEUTICA DE JALISCO SA DE CV', 'trade_name': 'DISTRIBUIDORA FARMACEUTICA DE JALISCO', 'status': True, 'email': 'DIFAJ@GMAIL.COM', 'contact_name': 'DISTRIBUIDORA FARMACEUTICA', 'phone': '3151097753', 'cell_phone': '3151097753', 'rfc': 'LORR820803P77', 'currency_id': 1, 'street': 'PROLONGACION CAHUTEMOC 234 1', 'interior_number': '1', 'exterior_number': '234', 'locality_id': 64629, 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-05-01 09:01:45.612911
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'order_status' - Time 2025-05-01 13:17:40.754961
+ERROR:root:Pagination error: type object 'ViewPurOrdersDetails' has no attribute 'real_quantity_equivalent' - Time 2025-05-01 15:31:43.889829
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 10:18:26.982042
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 12:10:00.449915
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 12:10:00.449915
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 12:10:00.449915
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 12:10:00.449915
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 12:10:00.449915
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 12:23:01.075737
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 12:23:01.075737
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 12:23:01.075737
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 12:23:01.075737
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 12:23:01.075737
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 12:23:01.075737
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 12:23:01.075737
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-03 12:23:01.075737
+ERROR:root:Delete error: (psycopg2.errors.ForeignKeyViolation) update or delete on table "ctg_branches" violates foreign key constraint "users_branch_id_fkey" on table "users"
+DETAIL:  Key (id)=(4) is still referenced from table "users".
+
+[SQL: DELETE FROM ctg_branches WHERE ctg_branches.id = %(id)s]
+[parameters: {'id': 4}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-05-09 18:25:52.176943
+ERROR:root:Delete error: (psycopg2.errors.ForeignKeyViolation) update or delete on table "ctg_branches" violates foreign key constraint "users_branch_id_fkey" on table "users"
+DETAIL:  Key (id)=(4) is still referenced from table "users".
+
+[SQL: DELETE FROM ctg_branches WHERE ctg_branches.id = %(id)s]
+[parameters: {'id': 4}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-05-09 18:25:52.176943
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-09 18:47:19.626524
+ERROR:root:Pagination error: too many values to unpack (expected 3) - Time 2025-05-09 18:47:19.626524
+ERROR:root:Create error: (psycopg2.errors.ForeignKeyViolation) insert or update on table "sls_sales" violates foreign key constraint "sls_sales_sales_type_id_fkey"
+DETAIL:  Key (sales_type_id)=(1) is not present in table "sls_sales_type".
+
+[SQL: INSERT INTO sls_sales (folio, sales_status_id, sales_type_id, store_id, cliente_id, store_counters_id, table_id, reference, account_id, user_id, modified_on) VALUES (%(folio)s, %(sales_status_id)s, %(sales_type_id)s, %(store_id)s, %(cliente_id)s, %(store_counters_id)s, %(table_id)s, %(reference)s, %(account_id)s, %(user_id)s, %(modified_on)s) RETURNING sls_sales.id, sls_sales.created_on]
+[parameters: {'folio': '2025000001', 'sales_status_id': 2, 'sales_type_id': 1, 'store_id': 1, 'cliente_id': 5, 'store_counters_id': 1, 'table_id': None, 'reference': None, 'account_id': 1, 'user_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-05-09 18:47:19.626524
+ERROR:root:Create error: (psycopg2.errors.ForeignKeyViolation) insert or update on table "sls_sales" violates foreign key constraint "sls_sales_sales_type_id_fkey"
+DETAIL:  Key (sales_type_id)=(1) is not present in table "sls_sales_type".
+
+[SQL: INSERT INTO sls_sales (folio, sales_status_id, sales_type_id, store_id, cliente_id, store_counters_id, table_id, reference, account_id, user_id, modified_on) VALUES (%(folio)s, %(sales_status_id)s, %(sales_type_id)s, %(store_id)s, %(cliente_id)s, %(store_counters_id)s, %(table_id)s, %(reference)s, %(account_id)s, %(user_id)s, %(modified_on)s) RETURNING sls_sales.id, sls_sales.created_on]
+[parameters: {'folio': '2025000001', 'sales_status_id': 2, 'sales_type_id': 1, 'store_id': 1, 'cliente_id': 5, 'store_counters_id': 1, 'table_id': None, 'reference': None, 'account_id': 1, 'user_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-05-09 18:47:19.626524
+ERROR:root:Create error: (psycopg2.errors.ForeignKeyViolation) insert or update on table "sls_sales_details" violates foreign key constraint "sls_sales_details_sale_id_fkey"
+DETAIL:  Key (sale_id)=(0) is not present in table "sls_sales".
+
+[SQL: INSERT INTO sls_sales_details (sale_id, article_id, quantity, unit_price, discount, subtotal, tax, observations, account_id, modified_on) VALUES (%(sale_id)s, %(article_id)s, %(quantity)s, %(unit_price)s, %(discount)s, %(subtotal)s, %(tax)s, %(observations)s, %(account_id)s, %(modified_on)s) RETURNING sls_sales_details.id, sls_sales_details.created_on]
+[parameters: {'sale_id': 0, 'article_id': 14, 'quantity': 1.0, 'unit_price': 20.0, 'discount': 0.0, 'subtotal': 20.0, 'tax': 16.0, 'observations': '', 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-05-09 18:47:19.626524
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-05-09 18:47:19.626524
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-05-09 18:47:19.626524
+ERROR:root:Create error: (psycopg2.errors.ForeignKeyViolation) insert or update on table "sls_sales" violates foreign key constraint "sls_sales_sales_type_id_fkey"
+DETAIL:  Key (sales_type_id)=(1) is not present in table "sls_sales_type".
+
+[SQL: INSERT INTO sls_sales (folio, sales_status_id, sales_type_id, store_id, cliente_id, store_counters_id, table_id, reference, account_id, user_id, modified_on) VALUES (%(folio)s, %(sales_status_id)s, %(sales_type_id)s, %(store_id)s, %(cliente_id)s, %(store_counters_id)s, %(table_id)s, %(reference)s, %(account_id)s, %(user_id)s, %(modified_on)s) RETURNING sls_sales.id, sls_sales.created_on]
+[parameters: {'folio': '2025000001', 'sales_status_id': 2, 'sales_type_id': 1, 'store_id': 1, 'cliente_id': 5, 'store_counters_id': 1, 'table_id': None, 'reference': None, 'account_id': 1, 'user_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-05-09 19:03:20.162728
+ERROR:root:Create error: (psycopg2.errors.ForeignKeyViolation) insert or update on table "sls_sales" violates foreign key constraint "sls_sales_sales_type_id_fkey"
+DETAIL:  Key (sales_type_id)=(1) is not present in table "sls_sales_type".
+
+[SQL: INSERT INTO sls_sales (folio, sales_status_id, sales_type_id, store_id, cliente_id, store_counters_id, table_id, reference, account_id, user_id, modified_on) VALUES (%(folio)s, %(sales_status_id)s, %(sales_type_id)s, %(store_id)s, %(cliente_id)s, %(store_counters_id)s, %(table_id)s, %(reference)s, %(account_id)s, %(user_id)s, %(modified_on)s) RETURNING sls_sales.id, sls_sales.created_on]
+[parameters: {'folio': '2025000001', 'sales_status_id': 2, 'sales_type_id': 1, 'store_id': 1, 'cliente_id': 5, 'store_counters_id': 1, 'table_id': None, 'reference': None, 'account_id': 1, 'user_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-05-09 19:03:20.162728
+ERROR:root:Create error: (psycopg2.errors.ForeignKeyViolation) insert or update on table "sls_sales" violates foreign key constraint "sls_sales_sales_status_id_fkey"
+DETAIL:  Key (sales_status_id)=(2) is not present in table "sls_sales_status".
+
+[SQL: INSERT INTO sls_sales (folio, sales_status_id, sales_type_id, store_id, cliente_id, store_counters_id, table_id, reference, account_id, user_id, modified_on) VALUES (%(folio)s, %(sales_status_id)s, %(sales_type_id)s, %(store_id)s, %(cliente_id)s, %(store_counters_id)s, %(table_id)s, %(reference)s, %(account_id)s, %(user_id)s, %(modified_on)s) RETURNING sls_sales.id, sls_sales.created_on]
+[parameters: {'folio': '2025000001', 'sales_status_id': 2, 'sales_type_id': 1, 'store_id': 1, 'cliente_id': 5, 'store_counters_id': 1, 'table_id': None, 'reference': None, 'account_id': 1, 'user_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-05-09 19:03:20.162728
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-05-09 19:03:20.162728
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-05-09 19:03:20.162728
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-05-09 19:03:20.162728
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-05-09 19:03:20.162728
+ERROR:root:Create error: (psycopg2.errors.ForeignKeyViolation) insert or update on table "pur_orders" violates foreign key constraint "pur_orders_status_order_id_fkey"
+DETAIL:  Key (status_order_id)=(1) is not present in table "pur_orders_status".
+
+[SQL: INSERT INTO pur_orders (folio, supplier_id, store_id, status_order_id, reference, account_id, modified_on) VALUES (%(folio)s, %(supplier_id)s, %(store_id)s, %(status_order_id)s, %(reference)s, %(account_id)s, %(modified_on)s) RETURNING pur_orders.id, pur_orders.created_on]
+[parameters: {'folio': '2025000001', 'supplier_id': 2, 'store_id': 1, 'status_order_id': 1, 'reference': '1475', 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-05-10 11:20:51.439650
+ERROR:root:Create error: (psycopg2.errors.ForeignKeyViolation) insert or update on table "pur_orders" violates foreign key constraint "pur_orders_status_order_id_fkey"
+DETAIL:  Key (status_order_id)=(1) is not present in table "pur_orders_status".
+
+[SQL: INSERT INTO pur_orders (folio, supplier_id, store_id, status_order_id, reference, account_id, modified_on) VALUES (%(folio)s, %(supplier_id)s, %(store_id)s, %(status_order_id)s, %(reference)s, %(account_id)s, %(modified_on)s) RETURNING pur_orders.id, pur_orders.created_on]
+[parameters: {'folio': '2025000001', 'supplier_id': 2, 'store_id': 1, 'status_order_id': 1, 'reference': '1478', 'account_id': 1, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-05-10 11:20:51.439650
+ERROR:root:Pagination error: QueuePool limit of size 10 overflow 20 reached, connection timed out, timeout 30.00 (Background on this error at: https://sqlalche.me/e/20/3o7r) - Time 2025-05-10 11:20:51.439650
+ERROR:root:Create error: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "inv_movements_details_uk_article"
+DETAIL:  Key (article_id, movement_id, account_id)=(21, 1, 1) already exists.
+
+[SQL: INSERT INTO inv_movements_details (movement_id, article_id, quantity, cost, account_id, real_quantity_equivalent, presentation_id, modified_on) VALUES (%(movement_id)s, %(article_id)s, %(quantity)s, %(cost)s, %(account_id)s, %(real_quantity_equivalent)s, %(presentation_id)s, %(modified_on)s) RETURNING inv_movements_details.id, inv_movements_details.created_on]
+[parameters: {'movement_id': 1, 'article_id': 21, 'quantity': 48.0, 'cost': 5.837083333333333, 'account_id': 1, 'real_quantity_equivalent': 4.0, 'presentation_id': 3, 'modified_on': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) - Time 2025-05-11 07:52:06.142150
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[57:76]
+DEBUG:multipart.multipart:Calling on_header_value with data[78:129]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[131:143]
+DEBUG:multipart.multipart:Calling on_header_value with data[145:169]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[173:830]
+DEBUG:multipart.multipart:Calling on_part_data with data[0:2]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data

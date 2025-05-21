@@ -1,0 +1,25 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "username": "isaacdb",
+            "password": "isaac_",
+            "name": "barbaros",
+            "database": "db_base_nichos"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "nichos_hub",
+            "database": "nichos_hub",
+            "username": "isaacdb",
+            "password": "isaac_"
+        }
+    ],
+    "python.pythonPath": "/home/isaac/Documents/nicho_hub/nicho_hub/back/env_hub/bin/python3"
+}

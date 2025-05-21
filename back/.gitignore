@@ -1,0 +1,5 @@
+env/
+env_hub/
+env_nicho/
+__pycache__/
+.env
